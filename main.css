@@ -33,3 +33,6 @@ a {
 .degree {
      font-weight: bold;
 }
+.school-location {
+    line-height: 200%;
+}
