@@ -27,7 +27,9 @@ a {
 }
 .job-title {
      font-weight: bold;
+     font-style: italic;
 }
 .degree {
      font-weight: bold;
+     padding-bottom: 3px;
 }
