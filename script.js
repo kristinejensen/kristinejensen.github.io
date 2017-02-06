@@ -1,5 +1,5 @@
 $(document).ready(function (){
-$('click').click(function () {
-  $('.reveal').toggle();
+$('.reaval').on('click', 'button', function () {
+  $('.reveal').slideDown();
 });
 });
